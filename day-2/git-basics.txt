@@ -1,0 +1,5 @@
+Git in Platform Engineering:
+
+- Version control for infrastructure and automation
+- Enables rollback and audit
+- Acts as single source of truth
