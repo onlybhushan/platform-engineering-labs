@@ -10,3 +10,6 @@
 # OS / Editor
 .DS_Store
 .vscode/
+
+# Installer archives
+*.zip
