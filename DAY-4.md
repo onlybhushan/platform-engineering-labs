@@ -1,0 +1,4 @@
+- Learned Terraform variables and outputs
+- Removed hardcoded values
+- Made infrastructure reusable
+- Understood platform mindset using Terraform
